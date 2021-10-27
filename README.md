@@ -35,7 +35,8 @@
 -----
 
 # Education
-<img src="https://user-images.githubusercontent.com/79501211/139129105-73560078-9ab5-4c3a-b56e-0dea182eefcf.png" width="130" height="27"/> ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) [click for my kata](https://www.codewars.com/users/danypineapple)
+<img src="https://user-images.githubusercontent.com/79501211/139129105-73560078-9ab5-4c3a-b56e-0dea182eefcf.png" width="130" height="27"/> Bootcamp Front End Developer
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) [click for my kata](https://www.codewars.com/users/danypineapple)
 
 ----
 # Social
