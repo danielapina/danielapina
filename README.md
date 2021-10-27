@@ -1,8 +1,11 @@
 
 ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/79501211/139121226-e5b10602-5528-4d60-95e1-a531084b3248.png)
 
+After getting to know the tech world, I made it my goal to be part of it. Now as a front-end developer I love jumping obstacles without forgetting the final goal, which is to keep learning while I adapt to new challenges.
+
 # Technical Skills
 
+-----
 ###### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
