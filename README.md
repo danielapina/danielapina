@@ -22,8 +22,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Education
-<img src="https://user-images.githubusercontent.com/79501211/139129105-73560078-9ab5-4c3a-b56e-0dea182eefcf.png" width="122" height="27"/> ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-
+<img src="https://user-images.githubusercontent.com/79501211/139129105-73560078-9ab5-4c3a-b56e-0dea182eefcf.png" width="122" height="27"/> ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) [click for my kata](https://www.codewars.com/users/danypineapple) 
 ## Social
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [click for my profile](https://www.linkedin.com/in/danielapina-o/)
 
