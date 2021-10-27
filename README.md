@@ -49,7 +49,9 @@
  ----
 
 ![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielapina&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielapina)](https://github.com/danielapina/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielapina&layout=compact)](https://github.com/danielapina/github-readme-stats)
+
 
 
 
