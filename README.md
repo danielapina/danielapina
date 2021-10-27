@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src=”https://user-images.githubusercontent.com/79501211/139121226-e5b10602-5528-4d60-95e1-a531084b3248.png" alt=”my banner”>
+<img src='https://user-images.githubusercontent.com/79501211/139121226-e5b10602-5528-4d60-95e1-a531084b3248.png' alt=”my banner”/>
 <!--
 **danielapina/danielapina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
