@@ -42,7 +42,8 @@
 -----
 
 # Education
-<img src="https://user-images.githubusercontent.com/79501211/139142543-4299beef-9e14-42ed-8aaf-6ea3c299faf7.png" width="130" height="27"/> Bootcamp Front End Developer
+<img src="https://user-images.githubusercontent.com/79501211/139142543-4299beef-9e14-42ed-8aaf-6ea3c299faf7.png" width="50" height="50"/> Bootcamp Front End Developer
+
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) [click for my kata](https://www.codewars.com/users/danypineapple)
 
 ----
