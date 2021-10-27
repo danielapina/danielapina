@@ -26,6 +26,9 @@
 ###### Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+###### Tools
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+
 ###### Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -46,6 +49,7 @@
 ----
 # Social
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [click for my profile](https://www.linkedin.com/in/danielapina-o/)
+
  ----
 
 ![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielapina&show_icons=true&theme=onedark)
