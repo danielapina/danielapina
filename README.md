@@ -1,11 +1,15 @@
 
 ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/79501211/139121226-e5b10602-5528-4d60-95e1-a531084b3248.png)
 
-<h4 align="center" font-weight='600'>
+<h3 align="center" >
     < Front End Developer Women />
-</h4>
+</h3>
+----
 
-### After getting to know the tech world, I made it my goal to be part of it. Now as a front-end developer I love jumping obstacles without forgetting the final goal, which is to keep learning while I adapt to new challenges.
+<h4 align="center" >
+    After getting to know the tech world, I made it my goal to be part of it. Now as a front-end developer I love jumping obstacles without forgetting the final goal, which is to keep learning while I adapt to new challenges.
+</h4>
+ 
 ------
 
 # Technical Skills
