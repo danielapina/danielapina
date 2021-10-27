@@ -48,6 +48,8 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [click for my profile](https://www.linkedin.com/in/danielapina-o/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielapina)](https://github.com/danielapina/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielapina&show_icons=true&theme=radical)
+
 
 
 
