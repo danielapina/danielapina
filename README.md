@@ -22,6 +22,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Education
+![27418802-0-Laboratoria-Logo-RGB](https://user-images.githubusercontent.com/79501211/139129105-73560078-9ab5-4c3a-b56e-0dea182eefcf.png)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
 ### Social
