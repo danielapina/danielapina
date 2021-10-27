@@ -1,7 +1,8 @@
 
 ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/79501211/139121226-e5b10602-5528-4d60-95e1-a531084b3248.png)
 
-After getting to know the tech world, I made it my goal to be part of it. Now as a front-end developer I love jumping obstacles without forgetting the final goal, which is to keep learning while I adapt to new challenges.
+***After getting to know the tech world, I made it my goal to be part of it. Now as a front-end developer I love jumping obstacles without forgetting the final goal, which is to keep learning while I adapt to new challenges.***
+------
 
 # Technical Skills
 
@@ -31,8 +32,11 @@ After getting to know the tech world, I made it my goal to be part of it. Now as
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
+-----
+
 # Education
-<img src="https://user-images.githubusercontent.com/79501211/139129105-73560078-9ab5-4c3a-b56e-0dea182eefcf.png" width="128" height="27"/> ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) [click for my kata](https://www.codewars.com/users/danypineapple) 
+<img src="https://user-images.githubusercontent.com/79501211/139129105-73560078-9ab5-4c3a-b56e-0dea182eefcf.png" width="128" height="27"/> ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) [click for my kata](https://www.codewars.com/users/danypineapple)
+------
 
 # Social
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [click for my profile](https://www.linkedin.com/in/danielapina-o/)
