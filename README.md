@@ -2,7 +2,7 @@
 ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/79501211/139121226-e5b10602-5528-4d60-95e1-a531084b3248.png)
 
 <h2 align="center" >
-    < Front End Developer Women />
+    < Frontend Developer Women />
 </h2>
 
 
